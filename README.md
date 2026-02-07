@@ -12,7 +12,7 @@ MSc in Aerospace Engineering with experience building data workflows and decisio
 - Produced clear status updates, issue logs, and handover notes to align cross-functional stakeholders on scope.
 
 ### Steadfast Group, LLC — USA, West Palm Beach (Remote)  
-**Financial Operations & Data Management Assistant| Aug 2023 – Jul 2025**
+**Financial Operations & Data Management Assistant | Aug 2023 – Jul 2025**
 - Maintained client and project databases in Excel and PostgreSQL; ensured clean data for billing and reporting.  
 - Developed scalable Excel/SQL reporting to track project progress, invoices, and operational KPIs for decision support.  
 - Delivered concise summaries and follow-ups to stakeholders, improving visibility and on-time execution.
