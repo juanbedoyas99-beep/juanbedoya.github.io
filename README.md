@@ -73,7 +73,7 @@ Developed a structured guide to support the teaching and learning of Calculus an
 
 ## Education
 
-### Data Analytics Certificate (150 hours) — University of Antioquia | 2025
+### Data Analytics Certificate (150 hours) — Universidad de Antioquia | 2025
 - Built end-to-end analytics workflows: data cleaning, transformation, and analysis using Python (Pandas).  
 - Developed KPI reporting and Power BI dashboards to translate data into actionable business insights.  
 - Applied data-driven decision-making frameworks: defining the question, validating data quality, and communicating recommendations to stakeholders.
@@ -94,12 +94,12 @@ Developed a structured guide to support the teaching and learning of Calculus an
 ## Tools & Software
 - Python  
 - SQL  
-- PostgreSQL  
-- Excel  
+- Excel
+- Microsoft 365  
 - Power BI  
 - VBA  
 - SAP  
-- MATLAB
+- MATLAB & Simulink
 - Siemens NX
 - SolidWorks
 - Ansys
