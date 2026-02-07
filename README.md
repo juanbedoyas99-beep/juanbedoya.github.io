@@ -23,6 +23,13 @@ MSc in Aerospace Engineering with experience building data workflows and decisio
 - Managed budget, resources, and vendor coordination under regulatory and schedule constraints, ensuring delivery reliability.  
 - Created KPI trackers and dashboards to support decisions on cost, workload, and risks across teams.
 
+
+### Universidad Pontificia Bolivariana — Colombia, Medellín  
+**Research Member – Energy & Thermodynamics Department | Oct 2020 – Sep 2021**
+- Conducted a CFD-focused research project analyzing heat pipes for waste heat recovery in industrial systems.
+- Developed the work in collaboration with Argos Cement Company (Colombia) and Brunel University London (UK).
+- Performance understanding and feasibility for real applications.
+
 ---
 
 ## Projects
